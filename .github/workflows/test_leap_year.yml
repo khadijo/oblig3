@@ -1,4 +1,4 @@
-name: run-tests-like-there-is-no-tomorrow
+name: run-tests-for-leap-year-class
 on:
   push:
     branches:

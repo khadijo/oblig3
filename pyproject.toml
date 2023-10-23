@@ -2,7 +2,7 @@
 name = "poetry-package"
 version = "0.1.0"
 description = "I need this file"
-authors = ["Your Name <you@example.com>"]
+authors = ["Khadijo <khadijoa@hiof.no>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
